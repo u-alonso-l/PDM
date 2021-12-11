@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/leftFragment"
+        android:title="User"
+        android:icon="@drawable/ic_user"/>
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Dex"
+        android:icon="@drawable/ic_book"/>
+    <item
+        android:id="@+id/rightFragment"
+        android:title="Search"
+        android:icon="@drawable/ic_search"/>
+</menu>
